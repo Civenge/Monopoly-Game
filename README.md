@@ -1,4 +1,8 @@
-# portfolio-project
+# Monopoly Game
+
+We created a simplified game of monopoly that could be played using a series of classes and class methods.  Below are the requirements that were given for our game.
+
+# Technical Requirements
 
 For this project you will write a class called RealEstateGame that allows two or more people to play a very simplified version of the game [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)).
 
